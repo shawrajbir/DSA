@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shawrajbir/DSA/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/shawrajbir/DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shawrajbir/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shawrajbir/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
