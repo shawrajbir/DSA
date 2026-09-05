@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shawrajbir/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/shawrajbir/DSA/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shawrajbir/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shawrajbir/DSA/tree/master/0414-third-maximum-number) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shawrajbir/DSA/tree/master/3903-smallest-stable-index-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shawrajbir/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
