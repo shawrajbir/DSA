@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shawrajbir/DSA/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shawrajbir/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/shawrajbir/DSA/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shawrajbir/DSA/tree/master/0788-rotated-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shawrajbir/DSA/tree/master/3875-construct-uniform-parity-array-i) |
