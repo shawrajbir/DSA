@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shawrajbir/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shawrajbir/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/shawrajbir/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shawrajbir/DSA/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/shawrajbir/DSA/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/shawrajbir/DSA/tree/master/0788-rotated-digits) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shawrajbir/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/shawrajbir/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shawrajbir/DSA/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
