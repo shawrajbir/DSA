@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shawrajbir/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawrajbir/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/shawrajbir/DSA/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shawrajbir/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/shawrajbir/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
