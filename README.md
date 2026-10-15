@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shawrajbir/DSA/tree/master/0414-third-maximum-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shawrajbir/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shawrajbir/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shawrajbir/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/shawrajbir/DSA/tree/master/3668-restore-finishing-order) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shawrajbir/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/shawrajbir/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shawrajbir/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/shawrajbir/DSA/tree/master/3668-restore-finishing-order) |
 ## Queue
@@ -265,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shawrajbir/DSA/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
