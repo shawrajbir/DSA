@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shawrajbir/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawrajbir/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shawrajbir/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shawrajbir/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/shawrajbir/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shawrajbir/DSA/tree/master/0414-third-maximum-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shawrajbir/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/shawrajbir/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shawrajbir/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shawrajbir/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shawrajbir/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/shawrajbir/DSA/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
