@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shawrajbir/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shawrajbir/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shawrajbir/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/shawrajbir/DSA/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shawrajbir/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/shawrajbir/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shawrajbir/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shawrajbir/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/shawrajbir/DSA/tree/master/3668-restore-finishing-order) |
 ## Queue
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shawrajbir/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/shawrajbir/DSA/tree/master/0414-third-maximum-number) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shawrajbir/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
