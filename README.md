@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shawrajbir/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shawrajbir/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/shawrajbir/DSA/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/shawrajbir/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shawrajbir/DSA/tree/master/0414-third-maximum-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shawrajbir/DSA/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/shawrajbir/DSA/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/shawrajbir/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shawrajbir/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
