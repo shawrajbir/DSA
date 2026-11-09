@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shawrajbir/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shawrajbir/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/shawrajbir/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/shawrajbir/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/shawrajbir/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shawrajbir/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shawrajbir/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shawrajbir/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shawrajbir/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/shawrajbir/DSA/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/shawrajbir/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/shawrajbir/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/shawrajbir/DSA/tree/master/2747-count-zero-request-servers) |
