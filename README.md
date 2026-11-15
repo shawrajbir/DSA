@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shawrajbir/DSA/tree/master/0496-next-greater-element-i) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shawrajbir/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shawrajbir/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shawrajbir/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2747-count-zero-request-servers](https://github.com/shawrajbir/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shawrajbir/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shawrajbir/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/shawrajbir/DSA/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shawrajbir/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shawrajbir/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shawrajbir/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3693-climbing-stairs-ii](https://github.com/shawrajbir/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shawrajbir/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/shawrajbir/DSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/shawrajbir/DSA/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shawrajbir/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shawrajbir/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/shawrajbir/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shawrajbir/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shawrajbir/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shawrajbir/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shawrajbir/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
