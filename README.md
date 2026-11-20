@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/shawrajbir/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shawrajbir/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shawrajbir/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shawrajbir/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shawrajbir/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shawrajbir/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shawrajbir/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shawrajbir/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shawrajbir/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shawrajbir/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shawrajbir/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/shawrajbir/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shawrajbir/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shawrajbir/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/shawrajbir/DSA/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shawrajbir/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shawrajbir/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
